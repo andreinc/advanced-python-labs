@@ -12,4 +12,7 @@
  * [Chapter 7](./c7)
  * [Chapter 8](./c8)
  * [Chapter 9](./c9)
+ * [Chapter 10](./c10)
+ * [Chapter 11](./c11)
+ * [Chapter 12](./c12)
 
