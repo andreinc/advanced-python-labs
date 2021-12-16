@@ -19,6 +19,9 @@
  * [Chapter 14](./c14)
  * [Chapter 15](./c15)
  * [Chapter 16](./c16)
+ * [Chapter 17](./c17)
+ * [Chapter 18](./c18)
+
 
 
 ##  Bonus Content
